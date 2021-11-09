@@ -1,0 +1,8 @@
+{
+  "android": {
+    "package": "com.ramzandeveloper.uberclone"
+  },
+  "ios": {
+    "bundleIdentifier": "com.ramzandeveloper.uberclone"
+  }
+}
